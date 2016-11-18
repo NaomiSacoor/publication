@@ -1,26 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
-
-
-#header1-1 H1 {
-  font-family: 'Ubuntu', sans-serif;
-  font-size: 25px;
-}
-#header1-1 I {
-  font-size: 25px;
-}
-#content4-8 .mbr-section__col .mbr-header__text {
-  color: #ffffff;
-}
-#content4-8 .btn {
-  font-family: 'Oxygen', sans-serif;
-}
-#msg-box3-43 .mbr-header .mbr-header__text {
-  text-align: center;
-}
-#msg-box3-43 .mbr-header .mbr-header__subtext {
-  text-align: center;
-}
 #content5-37 .mbr-header .mbr-header__text {
   text-align: center;
   color: #fff;
@@ -93,5 +72,26 @@
   color: #ffffff;
 }
 #content4-48 .btn {
+  font-family: 'Oxygen', sans-serif;
+}
+#msg-box3-43 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-43 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+
+
+#header1-1 H1 {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 25px;
+}
+#header1-1 I {
+  font-size: 25px;
+}
+#content4-8 .mbr-section__col .mbr-header__text {
+  color: #ffffff;
+}
+#content4-8 .btn {
   font-family: 'Oxygen', sans-serif;
 }
