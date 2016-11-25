@@ -1,5 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 #content5-37 .mbr-header .mbr-header__text {
   text-align: center;
   color: #fff;
@@ -11,13 +12,6 @@
 }
 #content5-37 .mbr-article {
   color: #fff;
-}
-#msg-box2-39 .mbr-header .mbr-header__text {
-  color: #252525;
-}
-#msg-box2-39 .mbr-article {
-  color: #ffffff;
-  font-size: 36px;
 }
 #msg-box3-45 .mbr-header .mbr-header__text {
   text-align: center;
@@ -37,26 +31,10 @@
 #content5-40 .mbr-article {
   color: #fff;
 }
-#msg-box2-42 .mbr-header .mbr-header__text {
-  color: #252525;
-}
-#msg-box2-42 .mbr-article {
-  color: #ffffff;
-  font-size: 36px;
-}
 #msg-box3-46 .mbr-header .mbr-header__text {
   text-align: center;
 }
 #msg-box3-46 .mbr-header .mbr-header__subtext {
-  text-align: center;
-}
-#header1-12 H1 {
-  font-size: 60px;
-}
-#msg-box3-44 .mbr-header .mbr-header__text {
-  text-align: center;
-}
-#msg-box3-44 .mbr-header .mbr-header__subtext {
   text-align: center;
 }
 
@@ -73,6 +51,17 @@
 }
 #content4-48 .btn {
   font-family: 'Oxygen', sans-serif;
+}
+
+#content4-0 P {
+  color: #ecdae8;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 12px;
+}
+#content4-0 .mbr-section__col .mbr-header__text {
+  color: #ff02fe;
+  font-size: 14px;
 }
 #msg-box3-43 .mbr-header .mbr-header__text {
   text-align: center;
@@ -94,4 +83,13 @@
 }
 #content4-8 .btn {
   font-family: 'Oxygen', sans-serif;
+}
+#header1-12 H1 {
+  font-size: 60px;
+}
+#msg-box3-44 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-44 .mbr-header .mbr-header__subtext {
+  text-align: center;
 }
