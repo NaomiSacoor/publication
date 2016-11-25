@@ -1,0 +1,95 @@
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+#content5-37 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+  font-size: 60px;
+}
+#content5-37 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-37 .mbr-article {
+  color: #fff;
+}
+#msg-box3-45 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-45 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#content5-40 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+  font-size: 60px;
+}
+#content5-40 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-40 .mbr-article {
+  color: #fff;
+}
+#msg-box3-46 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-46 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+
+
+#header1-47 H1 {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 25px;
+}
+#header1-47 I {
+  font-size: 25px;
+}
+#content4-48 .mbr-section__col .mbr-header__text {
+  color: #ffffff;
+}
+#content4-48 .btn {
+  font-family: 'Oxygen', sans-serif;
+}
+
+#content4-0 P {
+  color: #ecdae8;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 12px;
+}
+#content4-0 .mbr-section__col .mbr-header__text {
+  color: #ff02fe;
+  font-size: 14px;
+}
+#msg-box3-43 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-43 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+
+
+#header1-1 H1 {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 25px;
+}
+#header1-1 I {
+  font-size: 25px;
+}
+#content4-8 .mbr-section__col .mbr-header__text {
+  color: #ffffff;
+}
+#content4-8 .btn {
+  font-family: 'Oxygen', sans-serif;
+}
+#header1-12 H1 {
+  font-size: 60px;
+}
+#msg-box3-44 .mbr-header .mbr-header__text {
+  text-align: center;
+}
+#msg-box3-44 .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
