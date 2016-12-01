@@ -1,66 +1,18 @@
-@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
-#content5-37 .mbr-header .mbr-header__text {
-  text-align: center;
-  color: #fff;
-  font-size: 60px;
-}
-#content5-37 .mbr-header .mbr-header__subtext {
-  text-align: center;
-  color: #fff;
-}
-#content5-37 .mbr-article {
-  color: #fff;
-}
-#msg-box3-45 .mbr-header .mbr-header__text {
-  text-align: center;
-}
-#msg-box3-45 .mbr-header .mbr-header__subtext {
-  text-align: center;
-}
-#content5-40 .mbr-header .mbr-header__text {
-  text-align: center;
-  color: #fff;
-  font-size: 60px;
-}
-#content5-40 .mbr-header .mbr-header__subtext {
-  text-align: center;
-  color: #fff;
-}
-#content5-40 .mbr-article {
-  color: #fff;
-}
-#msg-box3-46 .mbr-header .mbr-header__text {
-  text-align: center;
-}
-#msg-box3-46 .mbr-header .mbr-header__subtext {
-  text-align: center;
-}
+@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
 
-
-#header1-47 H1 {
-  font-family: 'Ubuntu', sans-serif;
-  font-size: 25px;
-}
-#header1-47 I {
-  font-size: 25px;
-}
-#content4-48 .mbr-section__col .mbr-header__text {
-  color: #ffffff;
-}
-#content4-48 .btn {
-  font-family: 'Oxygen', sans-serif;
-}
 
 #content4-0 P {
-  color: #ecdae8;
-  text-align: center;
+  color: #000000;
+  text-align: left;
   font-family: 'Open Sans', sans-serif;
   font-size: 12px;
 }
 #content4-0 .mbr-section__col .mbr-header__text {
-  color: #ff02fe;
+  color: #0111ff;
   font-size: 14px;
 }
 #msg-box3-43 .mbr-header .mbr-header__text {
@@ -69,27 +21,115 @@
 #msg-box3-43 .mbr-header .mbr-header__subtext {
   text-align: center;
 }
+#msg-box3-43 .btn {
+  font-family: 'PT Sans', sans-serif;
+}
 
 
+
+
+#dropdown-menu-5 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-5 .nav .link,
+#dropdown-menu-5 .dropdown-item {
+  font-size: 1.2em;
+  color: #0006ff;
+  font-family: 'PT Sans', sans-serif;
+}
+#dropdown-menu-5 .navbar,
+#dropdown-menu-5 .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-5 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-5 .dropdown-menu a:hover,
+#dropdown-menu-5 .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-5 .navbar-toggler {
+  color: #0006ff;
+}
 #header1-1 H1 {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'PT Sans', sans-serif;
   font-size: 25px;
 }
 #header1-1 I {
-  font-size: 25px;
+  font-size: 32px;
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+  color: #0111ff;
 }
-#content4-8 .mbr-section__col .mbr-header__text {
-  color: #ffffff;
+#header1-1 P {
+  font-family: 'Merriweather', serif;
+  font-size: 30px;
 }
-#content4-8 .btn {
-  font-family: 'Oxygen', sans-serif;
+
+
+
+
+
+#header1-19 H1 {
+  font-family: 'Raleway', sans-serif;
+  color: #0111ff;
+  text-align: center;
 }
-#header1-12 H1 {
-  font-size: 60px;
+#header1-19 P {
+  text-align: center;
+  font-family: 'Slabo 27px', serif;
+  font-size: 16px;
+}
+#form1-1 .mbr-header__text {
+  font-family: 'Raleway', sans-serif;
+  color: #0111ff;
+}
+#form1-1 .btn {
+  font-family: 'PT Sans', sans-serif;
 }
 #msg-box3-44 .mbr-header .mbr-header__text {
   text-align: center;
 }
 #msg-box3-44 .mbr-header .mbr-header__subtext {
   text-align: center;
+}
+#msg-box3-44 .btn {
+  font-family: 'PT Sans', sans-serif;
+}
+
+
+
+
+#dropdown-menu-f .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-f .nav .link,
+#dropdown-menu-f .dropdown-item {
+  font-size: 1.2em;
+  color: #0006ff;
+  font-family: 'PT Sans', sans-serif;
+}
+#dropdown-menu-f .navbar,
+#dropdown-menu-f .dropdown-menu {
+  background: #ffffff;
+}
+#dropdown-menu-f .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-f .dropdown-menu a:hover,
+#dropdown-menu-f .dropdown-menu a:focus {
+  background: #f5f5f5;
+}
+#dropdown-menu-f .navbar-toggler {
+  color: #0006ff;
+}
+#header1-g H1 {
+  font-family: 'PT Sans', sans-serif;
+  font-size: 25px;
+}
+#header1-g I {
+  font-size: 32px;
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+  color: #0111ff;
+}
+#header1-g P {
+  font-family: 'Merriweather', serif;
+  font-size: 30px;
 }
