@@ -33,9 +33,9 @@
 }
 #dropdown-menu-5 .nav .link,
 #dropdown-menu-5 .dropdown-item {
-  font-size: 1.2em;
+  font-size: 1.4em;
   color: #0006ff;
-  font-family: 'PT Sans', sans-serif;
+  font-family: 'Raleway', sans-serif;
 }
 #dropdown-menu-5 .navbar,
 #dropdown-menu-5 .dropdown-menu {
@@ -50,11 +50,12 @@
   color: #0006ff;
 }
 #header1-1 H1 {
-  font-family: 'PT Sans', sans-serif;
-  font-size: 25px;
+  font-family: 'Raleway', sans-serif;
+  font-size: 30px;
+  text-align: left;
 }
 #header1-1 I {
-  font-size: 32px;
+  font-size: 30px;
   font-family: 'Raleway', sans-serif;
   text-align: center;
   color: #0111ff;
@@ -62,6 +63,10 @@
 #header1-1 P {
   font-family: 'Merriweather', serif;
   font-size: 30px;
+}
+#header1-1 SPAN {
+  color: #0111ff;
+  font-size: 36px;
 }
 
 
